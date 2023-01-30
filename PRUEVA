@@ -1,0 +1,111 @@
+#EXTINF:-1,DO : Acento TV
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/160.ts
+
+#EXTINF:-1,DO : Antena Latina
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/395.ts
+
+#EXTINF:-1,DO : Canal 25
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/154.ts
+
+#EXTINF:-1,DO : CDN Cadena de Noticias
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/396.ts
+
+#EXTINF:-1,DO : CDN Deportes
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/756.ts
+
+#EXTINF:-1,DO : CERTV 4
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/151.ts
+
+#EXTINF:-1,DO : Color Vision HD
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/80.ts
+
+#EXTINF:-1,DO : Digital 15
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/392.ts
+
+#EXTINF:-1,DO : Hilando Fino
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/572.ts
+
+#EXTINF:-1,DO : La Opcion TV
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/153.ts
+
+#EXTINF:-1,DO : La Voz de Maria
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/491.ts
+
+#EXTINF:-1,DO : Luna TV HD
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/2.ts
+
+#EXTINF:-1,DO : Recuerdos TV 
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/156.ts
+
+#EXTINF:-1,DO : RNN Cadena de Noticias
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/155.ts
+
+#EXTINF:-1,DO : Super Canal 33
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/159.ts
+
+#EXTINF:-1,DO : Super TV 55 HD
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/3.ts
+
+#EXTINF:-1,DO : Teleantillas
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/394.ts
+
+#EXTINF:-1,DO : TeleCentro HD
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/81.ts
+
+#EXTINF:-1,DO : Telemicro
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/36.ts
+
+#EXTINF:-1,DO : Telemicro Internacional USA
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/79.ts
+
+#EXTINF:-1,DO : Teleradio America
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/571.ts
+
+#EXTINF:-1,DO : Telesistema 11
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/393.ts
+
+#EXTINF:-1,DO : TeleUnion HD
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/152.ts
+
+#EXTINF:-1,DO : Teleuniverso 29
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/158.ts
+
+#EXTINF:-1,DO : Tin Marin
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/75.ts
+
+#EXTINF:-1,DO : Tu Musica HD
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/54.ts
+
+#EXTINF:-1,DO : Univision Latinoamerica
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/397.ts
+
+#EXTINF:-1,DO : Z 101 FM TV
+#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/157.ts
